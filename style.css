@@ -178,6 +178,11 @@ TESTIMONIALS SECTION
     color: white;
     text-align: left align;
 }
+.review-text {
+text-align: left;
+line-height: 1.6;
+}
+
 
 .testimonial-card img {
     width: 70px;
@@ -307,6 +312,7 @@ GALLERY SECTION
     box-shadow: 0 8px 20px rgba(0,0,0,0.6);
 
 }
+
 
 
 
