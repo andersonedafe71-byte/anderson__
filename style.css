@@ -222,17 +222,17 @@ STATS SECTION
 
 .stat-card {
     background: rgba(255,255,255,0.15);
-    padding: 30px 20px;
-    width: 200px;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    padding: 40px 25px;
+    width: 240px;
+    border-radius: 15px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.3);
     backdrop-filter: blur(5px);
     color: white;
 }
 
 .stat-card h3 {
-    font-size: 2.5rem;
-    margin-bottom: 10px;
+    font-size: 3.8rem;
+    margin-bottom: 8px;
 }
 
 .stat-card p {
@@ -312,6 +312,7 @@ GALLERY SECTION
     box-shadow: 0 8px 20px rgba(0,0,0,0.6);
 
 }
+
 
 
 
