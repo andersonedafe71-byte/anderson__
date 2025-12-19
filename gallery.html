@@ -41,7 +41,7 @@
 <section id="gallery">
     <div class="gallery-container">
         <!-- Add your images here -->
-        <img src="John_the _pastor.jpg" class="gallery-img" alt="">
+        <img src="John_the _pastor.jpg" class="gallery-img" onclick=" openimage(this)"> alt="">
         <img src="cap.jpg" class="gallery-img" alt="">
         <img src="great.jpg" class="gallery-img" alt="">
         <img src="superpor.jpg" class="gallery-img" alt="">
@@ -67,9 +67,13 @@
 </div>
 
 <script src="script.js"></script>
+<div id="imageModal" class="modal" onclick=closeimage()">
+  <img id="modalimg">
+</div>
 </body>
 
 </html>
+
 
 
 
